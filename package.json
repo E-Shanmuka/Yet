@@ -1,0 +1,12 @@
+{
+  "name": "yt-random-player",
+  "version": "1.0.0",
+  "description": "Random YouTube video player with Node.js backend and HTML frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
